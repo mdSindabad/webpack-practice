@@ -1,3 +1,5 @@
+import './styles/index.css';
+
 const student = {
     id: 1,
     name: 'John Doe',
