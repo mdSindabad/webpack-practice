@@ -1,0 +1,11 @@
+@use "variables";
+
+body {
+    display: flex;
+    justify-content: center;
+
+    h1 {
+        color: variables.$text;
+    }
+}
+
